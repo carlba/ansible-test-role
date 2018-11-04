@@ -1,4 +1,5 @@
 galaxy_info:
+  role_name: test-role
   author: carlba
   description: The purpose of this role is to test deployment to ansible galaxy
   license: license (MIT)
