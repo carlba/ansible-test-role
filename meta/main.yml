@@ -3,9 +3,9 @@ galaxy_info:
   description: The purpose of this role is to test deployment to ansible galaxy
   license: license (MIT)
   min_ansible_version: 2.5
-   platforms:
-   - name: Ubuntu
-     versions:
-     - all
+  platforms:
+    - name: Ubuntu
+      versions:
+        - all
   galaxy_tags: []
-dependencies: []
+  dependencies: []
